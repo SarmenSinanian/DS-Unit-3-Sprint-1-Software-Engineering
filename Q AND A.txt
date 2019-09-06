@@ -1,0 +1,37 @@
+What, in your opinion, is an important part
+ of code reviews? That is, what is something
+ you pay attention to when you review code,
+ and that you appreciate when others do the
+ same for your code?
+
+A major part of code reviews is the fact that
+ without a second pair of eyes looking at 
+ your code, you won't be able to truly know
+ if what you composed was intelligible or not.
+ Essentially, the work needs to be looked at
+ or else you run the risk of having created
+ a 'black box' where a person can run your 
+ code but may not be able to make much sense 
+ of it. Every written language is meant as a 
+ form of communication. If you are unable to 
+ communicate properly, the result is almost
+ always a negative one. E.G. having the 
+ answers to the universe but being unable to
+ communicate it to someone else means you have
+ no bearing on if you are correct or not.
+ No independent source of validation.
+
+Containers are almost like chapter headings
+ in a book. Sure, there are many many layers
+ and details within a book BUT those details 
+ will be unintelligible if we need to think 
+ of each detail in its own singular form.
+ Grouping things together assists in the
+ natural human memory recall process by 
+ limiting the number of components to recall.
+ This is also why we use bins for charts
+ and why the natural human tendency to
+ stereotype occurs. Fun fact: humans are only
+ able to have ~150 meaningful relationship of
+ which they can keep track of said relationship's
+ details.
